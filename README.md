@@ -1,2 +1,0 @@
-# spilky
-Created with CodeSandbox

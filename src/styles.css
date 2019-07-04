@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.spaceship-details {
+  margin-top: 15px;
+}
+
+.spaceship-details-section {
+  margin: 15px auto;
+}
+
+.spaceship-details-section label {
+  text-transform: capitalize;
+  margin-right: 5px;
+}
+
+.animation-appear {
+  opacity: 0.01;
+}
+
+.animation-appear.animation-appear-active {
+  opacity: 1;
+  transition: opacity 0.5s ease-in;
+}
